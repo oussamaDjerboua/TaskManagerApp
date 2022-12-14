@@ -23,6 +23,7 @@
     "validator": "^13.7.0"
   },
   "devDependencies": {
+    "env-cmd": "^8.0.2",
     "jest": "^23.6.0",
     "nodemon": "^2.0.20"
   }
